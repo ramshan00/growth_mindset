@@ -4,7 +4,7 @@ import os
 from io import BytesIO
 
 # Set page config
-st.set_page_config(page_title="🚀 Growth Mindset - File Transformer", layout='wide')
+st.set_page_config(page_title="🚀 Growth Mindset - File Transformer by Ramsha Noshad", layout='wide')
 
 # Initialize session state for dark mode
 if "dark_mode" not in st.session_state:
